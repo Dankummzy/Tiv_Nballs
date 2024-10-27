@@ -1,5 +1,5 @@
 # Tiv Nballs Embeddings
-This repository provides code and resources for training and testing nball embeddings on Tiv language data. The main goal was to generate word embeddings and test their neighbor relationships, providing insights into the semantic clustering of Tiv words. For the full implementation, including setup and evaluation, visit the original nball4tree repository: https://github.com/gnodisnait/nball4tree.git.
+This repository provides code and resources for training and testing nball embeddings on Tiv language data. The main goal was to generate word embeddings and test their neighbor relationships, providing insights into the semantic clustering of Tiv words. For the full implementation, including setup and evaluation of nballs, visit the original nball4tree repository: https://github.com/gnodisnait/nball4tree.git.
 
 # Installation
 First install Python
