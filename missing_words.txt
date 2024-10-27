@@ -29,7 +29,6 @@ mba
 ondo
 se
 ci
-va
 cii
 je
 hen
@@ -53,32 +52,32 @@ k
 vea
 ma
 kera
+fa
 nahan
 nen
 me
 una
 gba
 faty
-yange
 e
 ya
 mo
 ongo
 ts
 Ka
+tar
 nana
+we
 ye
 kaan
 ny
 v
 Yesu
 ven
-ku
 zua
 nenge
 n
 s
-zwa
 ishima
 gema
 tese
@@ -90,7 +89,6 @@ iti
 her
 wan
 Ter
-uma
 ’
 ki
 doo
@@ -100,7 +98,6 @@ wa
 ker
 at
 Shin
-yem
 U
 zan
 lun
@@ -213,6 +210,7 @@ tile
 GA
 dugh
 gar
+tor
 ibo
 ua
 iyange
@@ -281,7 +279,6 @@ Shi
 duen
 icivir
 ato
-mough
 gem
 kuran
 ikpan
@@ -297,7 +294,6 @@ Ruamabera
 idya
 pue
 isholibo
-tso
 lam
 Bibilo
 ndi
@@ -305,9 +301,7 @@ won
 tsua
 opu
 gbenda
-iv
 Ga
-ityough
 Paulu
 d
 ikyo
@@ -326,7 +320,6 @@ tim
 iwen
 pasen
 atindi
-tema
 nagh
 kav
 imo
@@ -398,7 +391,6 @@ Aluer
 gbem
 S
 kpi
-uwegh
 bugh
 icighan
 doon
@@ -500,7 +492,6 @@ tsegha
 mnger
 uwe
 ashighe
-ime
 iya
 kaven
 vir
@@ -547,7 +538,6 @@ ikyaa
 kape
 kom
 uwer
-tse
 Rabi
 nyer
 mtim
@@ -629,7 +619,6 @@ utar
 so
 mnder
 kwar
-aikighe
 eev
 azende
 tenger
@@ -721,6 +710,7 @@ mzough
 –
 koso
 ume
+su
 awa
 OM
 zamber
@@ -767,8 +757,8 @@ yangen
 Icigh
 j
 do
+shia
 ataratar
-yevese
 anmgbian
 Pilatu
 kegh
@@ -792,6 +782,7 @@ nea
 yar
 Baba
 uuma
+tamen
 ngir
 igyo
 Na
@@ -914,6 +905,7 @@ mgbegha
 Ape
 shimi
 maya
+tav
 zenda
 umina
 ron
@@ -1193,8 +1185,8 @@ Pau
 Agripa
 kuren
 waa
-kper
 shir
+tsembe
 aba
 tagher
 Baal
@@ -1798,7 +1790,6 @@ Msen
 shar
 Mekisedeki
 akperan
-atetan
 atu
 tsevaa
 atesen
@@ -2271,6 +2262,7 @@ undun
 verem
 tsar
 iusu
+ame
 Orna
 kerene
 Kayafa

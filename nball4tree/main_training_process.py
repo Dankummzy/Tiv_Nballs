@@ -415,7 +415,7 @@ def training_all_families(root="*root*", wsChildrenDic=dict(), word2vecDic=dict(
     """
     global L0, DIM
     children = get_children(root, wsChildrenDic=wsChildrenDic)
-    child0= 'kwagh.n.0'
+    child0= 'uma.n.0'
     children = sorted(children, key=lambda ele: np.dot(get_word2vector(child0, word2vecDic=word2vecDic),
                                                        get_word2vector(ele, word2vecDic=word2vecDic)))
     print(children)
@@ -514,7 +514,7 @@ def fix_dim(maxsize, mindim, word2ballDic=dict(), bPath = '/Users/tdong/data/glo
     return word2ballDic
 
 
-def make_DC_for_first_level_children(root="*root*", firstChild = 'kwagh.n.0', wsChildrenDic=dict(),
+def make_DC_for_first_level_children(root="*root*", firstChild = 'uma.n.0', wsChildrenDic=dict(),
                                      outputPath='', maxsize=0, mindim=0,  word2ballDic = dict(),
                                      logFile=None):
     """
@@ -561,7 +561,7 @@ def train_word2ball(root="*root*",  outputPath = r'C:\Users\user\Desktop\softwar
         copy_tree(outputPath, outputPathBack)
     maxsize, mindim , word2ballDic = load_balls(ipath=outputPath, word2ballDic=word2ballDic)
     fix_dim(maxsize, mindim, bPath=outputPath, outputPath=outputPath)
-    make_DC_for_first_level_children(root=root, firstChild = 'kwagh.n.0', wsChildrenDic=wsChildrenDic,
+    make_DC_for_first_level_children(root=root, firstChild = 'uma.n.0', wsChildrenDic=wsChildrenDic,
                                                     word2ballDic=word2ballDic, outputPath=outputPath,
                                                     maxsize=maxsize, mindim=mindim, logFile=logFile)
 
